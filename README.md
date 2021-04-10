@@ -1,1 +1,1 @@
-# twitter-bot
+# This is twitter bot that can tweet our tweets how many number of tweets you have passed. And after that it takes the screenshot as per the window size.
